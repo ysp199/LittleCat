@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Distribution / packaging / PyInstaller build directories
+build/
+dist/
+
+# PyInstaller intermediate specs (keep current DesktopCat_v10.spec)
+DesktopCat.spec
+DesktopCat_v[0-9].spec
+DesktopCat_v4.1.spec
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
