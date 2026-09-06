@@ -1,10 +1,10 @@
-# Desktop Cat Pet v10.0 (Accurate Accessories & Double-Click Jump Edition)
+# Desktop Cat Pet v1.0 (Accurate Accessories & Double-Click Jump Edition)
 
 A lightweight, animated cartoon desktop pet cat for Windows. Features compact full-body pixel art styling with precise accessories and interactive controls.
 
 ---
 
-## What's New in v10.0
+## What's New in v1.0
 
 1. **Accurate Accessory Placement**:
    - **Pink Bow**: Sticks directly on the cat's head/ear in all positions.
@@ -20,7 +20,7 @@ A lightweight, animated cartoon desktop pet cat for Windows. Features compact fu
    - Paper unroll animation continues as long as you scroll the mouse wheel.
 6. **Lively Idle Variety**:
    - Random playful actions (playing with yarn, grooming, rolls, hops, thought bubbles).
-7. **Standalone Version 10 Executable**: Outputs to [`dist/DesktopCat_v10.exe`](file:///d:/Study/Cattu/dist/DesktopCat_v10.exe).
+7. **Standalone Version 10 Executable**: Outputs to [`dist/DesktopCat_v1.exe`](file:///d:/Study/Cattu/dist/DesktopCat_v10.exe).
 
 ---
 
@@ -38,7 +38,7 @@ python main.py
 
 ---
 
-## Building Standalone Executable (`DesktopCat_v10.exe`)
+## Building Standalone Executable (`DesktopCat_v1.exe`)
 
 Run the build script:
 ```cmd
